@@ -1,7 +1,7 @@
 import heapq
 
 cities = {
-    "Arad": {"Zerind": 75, "Timisoara": 118, "Sibiu": 140},
+    "Arad": {"Zerind": 30, "Timisoara": 20, "Sibiu": 0},
     "Zerind": {"Arad": 75, "Oradea": 71},
     "Timisoara": {"Arad": 118, "Lugoj": 111},
     "Sibiu": {"Arad": 140, "Oradea": 151, "Fagaras": 99, "Rimnicu Vilcea": 80},
